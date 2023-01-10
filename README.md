@@ -1,7 +1,7 @@
 # Olá eu sou a Amanda Perch 👧🇧🇷
 
-- 🌱 Estudando Front End, Back End e SoftSkills na Trybe!
-- 📫 E-mail: perch_amanda@hotmail.com
+- 🌱 Estudando Front End, Back End, Ciência da computação e SoftSkills na Trybe!
+- 📫 E-mail: amanda03perch@gmail.com
 - 😄 Pronouns: ela/dela/she/her
 
 <div align="left">  
