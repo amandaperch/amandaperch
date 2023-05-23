@@ -5,7 +5,6 @@
 - 😄 Pronouns: ela/dela/she/her
 
 <div align="left">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaperch&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaperch&layout=compact&langs_count=7&theme=radical"/>
  </div>
  
